@@ -1,11 +1,11 @@
-# Karim — Portfolio React
+# Oumar— Portfolio React
 
 Portfolio personnel développé avec **React + Vite**.
 
 ## Structure du projet
 
 ```
-karim-portfolio/
+oumar-portfolio/
 ├── public/
 ├── src/
 │   ├── components/
@@ -82,7 +82,7 @@ vercel --prod
 ```js
 export default defineConfig({
   plugins: [react()],
-  base: '/karim-portfolio/',  // nom de ton repo
+  base: '/oumar-portfolio/',  // nom de ton repo
 })
 ```
 
