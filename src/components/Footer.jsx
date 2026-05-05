@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className={styles.footer}>
       <div className={styles.left}>
-        <span className={styles.logo}>K.</span>
+        <span className={styles.logo}>O.</span>
         <span className={styles.copy}>© 2026 Oumar — Développeur Fullstack</span>
       </div>
       <div className={styles.links}>
