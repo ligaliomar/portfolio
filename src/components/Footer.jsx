@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className={styles.footer}>
       <div className={styles.left}>
         <span className={styles.logo}>K.</span>
-        <span className={styles.copy}>© 2025 Karim — Développeur Fullstack</span>
+        <span className={styles.copy}>© 2026 Oumar — Développeur Fullstack</span>
       </div>
       <div className={styles.links}>
         <a href={data.github} target="_blank" rel="noopener noreferrer">GitHub</a>
